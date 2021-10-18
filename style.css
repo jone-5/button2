@@ -22,7 +22,7 @@
   body{
     margin: 6rem;
     /* text-transform: none; */
-    
+    font-family: 'Volkhov', serif;
     
   }
   .button{
@@ -37,25 +37,26 @@
     font-family: syne;
     text-transform: uppercase;
     font-weight: bold; 
-    }
+  }
   
   .button:hover {
     color: #fff;
     background-color: var(--button-color);
   }
-
+  
   .paragraph {
-        font-family: volkhov;
-        font-size: 14px;
-        line-height: 10 px;
-        color: #402401
+    font-family: volkhov;
+    font-size: 14px;
+    line-height: 10 px;
+    color: #402401
   }
-
+  
   .h1 {
     font-family: syne;
     font-size: 48px;
     line-height: 62 px;
-    color: #8C4303
+    color: #8C4303;
+    font-family: 'Syne', sans-serif;
   }
   .h2 {
     font-family: syne;
